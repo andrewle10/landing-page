@@ -1752,7 +1752,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			font-size: 1.0em;
+			font-size: 1.5em;
 			padding-left: 0em;
 		}
 
@@ -2126,7 +2126,7 @@ input, select, textarea {
 
 		#about p {
 			font-size: 1.5em;
-			line-height: 1.75em;
+			line-height: 1.0em;
 		}
 
 			#about p a {
