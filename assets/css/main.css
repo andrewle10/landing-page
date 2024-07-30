@@ -1628,7 +1628,6 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
 			width: 100%;
 		}
 
@@ -1753,7 +1752,8 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			font-size: 1.0em;
+			padding-left: 0em;
 		}
 
 	ol {
@@ -2104,32 +2104,32 @@ input, select, textarea {
 		margin-bottom: 0;
 	}
 
-	#top {
+	#about {
 		padding: 10em 0 10em 0;
 		text-align: left;
 	}
 
-		#top .image {
+		#about .image {
 			border-radius: 100%;
 			width: 20em;
 			height: 20em;
 			margin: 0;
 		}
 
-			#top .image img {
+			#about .image img {
 				border-radius: 100%;
 			}
 
-		#top h1 {
+		#about h1 {
 			margin-top: 0.35em;
 		}
 
-		#top p {
+		#about p {
 			font-size: 1.5em;
 			line-height: 1.75em;
 		}
 
-			#top p a {
+			#about p a {
 				color: inherit;
 			}
 
@@ -2207,11 +2207,11 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#about {
 				padding: 8em 0;
 			}
 
-				#top .image {
+				#about .image {
 					width: 24em;
 					height: 24em;
 					margin: 0;
@@ -2225,12 +2225,12 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#about {
 				text-align: center;
 				padding: 5em 0;
 			}
 
-				#top .image {
+				#about .image {
 					margin: 0 auto 2em auto;
 				}
 
@@ -2405,17 +2405,17 @@ input, select, textarea {
 
 		/* Articles */
 
-			#top {
+			#about {
 				padding: 3em 0;
 			}
 
-				#top .image {
+				#about .image {
 					width: 15em;
 					height: 15em;
 					margin-bottom: 0;
 				}
 
-				#top p {
+				#about p {
 					font-size: 1em;
 				}
 

@@ -7,3 +7,7 @@
 	</defs>
 	<rect x="0" y="0" width="100%" height="100%" style="fill:url(#gradient1);" />
 </svg>
+
+.image img {
+  border-radius: 50%;
+}
